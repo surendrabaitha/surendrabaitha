@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Surendra 👋<br><br>💻 Passionate Software Developer | Full-Stack Specialist<br><br>Welcome to my GitHub profile! As a dedicated software developer with strong knowledge of frontend and backend technologies, I focus on creating optimized and scalable web applications. I am driven by innovation and constantly strive to stay at the forefront of technology trends.
+Hi there! I'm Surendra 👋<br><br>💻 Passionate Software Developer | Full-Stack Developer<br><br>Welcome to my GitHub profile! As a dedicated software developer with strong knowledge of frontend and backend technologies, I focus on creating optimized and scalable web applications. I am driven by innovation and constantly strive to stay at the forefront of technology trends.
 
 
 ## 🌐 Socials:
